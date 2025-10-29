@@ -1,6 +1,6 @@
 
 
-
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Moksh-Git alt=mokshgit/> </p>
 
 ## 🧑‍🎓 About Me
 

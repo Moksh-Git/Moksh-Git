@@ -17,9 +17,6 @@
   <a href="https://www.linkedin.com/in/mokshadpatil/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mokshad" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/mokshad_patil" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mokshad" height="30" width="40" />
-  </a>
    <a href="https://leetcode.com/u/patil_mokshad05/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mokshad" height="30" width="40" />
   </a>
@@ -32,26 +29,21 @@
 <p align="center">
  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,html,css,tailwind,react,nodejs,express,spring,nginx,sklearn,tensorflow,npm,maven,mongodb,mysql,postgres,redis,firebase,git,github,postman,vscode,idea,aws,netlify,vercel,ai&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,npm,mongodb,mysql,firebase,git,github,postman,vscode,idea,aws,netlify,vercel,ai&theme=dark&perline=15" />
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 📈 GitHub Stats
-
-|  Streak | Top Languages |
-|:--:|:--:|
-| ![](https://github-readme-streak-stats.herokuapp.com?user=Jagdish2004&theme=dark&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jagdish2004&theme=dark&hide_border=false&layout=compact) |
 
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 ## 🏆 Competitive Programming
 
 ### LeetCode  
-[![LeetCode](https://leetcard.jacoblin.cool/jaggu2004?theme=dark&font=Montserrat&ext=contest)](https://leetcode.com/u/jaggu2004/)  
-> 🎖 Knight | 800+ problems | Active Contestant
+[![LeetCode](https://leetcard.jacoblin.cool/patil_mokshad05?theme=dark&font=Montserrat&ext=contest)](https://leetcode.com/u/patil_mokshad05/)  
+
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 

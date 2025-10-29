@@ -4,7 +4,7 @@
 
 ## 🧑‍🎓 About Me
 
-*I'm **Mokshad**, a Frontend and Mobile App Developer skilled in **ReactJS** and **React Native** stacks. I love competitive programming, enjoy solving complex problems, debugging issues, and building scalable applications.
+*I'm **Mokshad**, a Frontend and Mobile App Developer skilled in **ReactJS** and **React Native** stacks. I love to build interactive UI, enjoy debugging complex problems, debugging issues, and building scalable applications.
 
 ### 🏅 Achievements
 
